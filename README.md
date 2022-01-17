@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rahulsharma25
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning React.JS
-- 📫 rahulsharmagbr@gmail.com
+- 👋 Hi, I’m Rahul Matolia
+- 👀 I’m interested in Machine Learning, Data Science and Web Development
+- 🌱 I’m currently a student at IIT Ropar
+- 📫 Contact me at rahulsharmagbr@gmail.com
 
 <!---
 rahulsharma25/rahulsharma25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
