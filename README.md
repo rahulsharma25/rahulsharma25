@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Matolia
-- 👀 I’m interested in Machine Learning, Data Science and Web Development
+- 👀 I’m interested in Deep Learning, Data Science and Web Development
 - 🌱 I’m currently a student at IIT Ropar
 - 📫 Contact me at rahulsharmagbr@gmail.com
 
